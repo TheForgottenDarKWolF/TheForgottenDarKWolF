@@ -1,8 +1,10 @@
-<span style="display:flex;align-items:center;justify-content:center;">Bienvenido a mi Github 👋</span>
+<h1 align="center">Bienvenido a mi Github 👋</h1>
+
 ![Banner de Oscar Díaz](Banner_edit.png)
-<span style="text-align:center;font-size:24px;border-bottom:2px solid grey;border-left:2px solid grey;padding-left:5px;padding-right:5px;border-radius:2px;">Contacto</span>
-<span style="display:flex;align-items:center;justify-content:center;">
-<span style="width:auto;margin:5px;">
+
+<span style="text-align:center;font-size:24px;border-bottom:2px solid grey;border-left:2px solid grey;padding-left:5px;padding-right:5px;border-radius:2px;"><h2 align="left">Contacto</h2></span>
+<span  align="center" style="display:flex;align-items:center;justify-content:center;">
+<span  align="center" style="width:auto;margin:5px;">
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5564420043)
 </span>
 <span style="width:auto;margin:5px;">
@@ -15,7 +17,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](oscar_dr_25117@hotmail.com)
 </span>
 </span>
-<span style="text-align:center;font-size:24px;border-bottom:2px solid grey;border-left:2px solid grey;padding-left:5px;padding-right:5px;border-radius:2px;">Tecnologías</span>
+<span style="text-align:center;font-size:24px;border-bottom:2px solid grey;border-left:2px solid grey;padding-left:5px;padding-right:5px;border-radius:2px;"><h2 align="left">Tecnologías</h2></span>
 <span style="display:flex;align-items:center;justify-content:center;">
 <span style="width:auto;margin:5px;">
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

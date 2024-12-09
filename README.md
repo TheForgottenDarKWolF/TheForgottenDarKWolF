@@ -100,11 +100,14 @@
 <span style="width:auto;margin:5px;">
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 </span>
+<span style="width:auto;margin:5px;">
+Etc...
+</span>
 </span>
 
 <h2 align="left">Acerca de mi</h2>
 
-<img align="right" src="Banner_edit.png" style="width:45%;"/>
+<img align="right" src="Urahara.gif" height="220" width="400"/>
 
 <ul align="left" style="width:45%;font-size:18px;">
   <li>🖥️ Actualmente estoy trabajando con Next js, JS, Typescript, Vercel.</li>

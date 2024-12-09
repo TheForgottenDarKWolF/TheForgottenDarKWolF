@@ -101,10 +101,15 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 </span>
 </span>
-<span style="display:flex;flex-direction: row;"><ul style="width:45%;font-size:18px;">
+
+<h2 align="left">Acerca de mi</h2>
+
+<img align="right" src="Banner_edit.png" style="width:45%;"/>
+
+<ul align="left" style="width:45%;font-size:18px;">
   <li>🖥️ Actualmente estoy trabajando con Next js, JS, Typescript, Vercel.</li>
   <li>📚 Al mismo tiempo estoy estudiando Flutter, Kotlin, Python.</li>
   <li>🔬 Me gusta experimentar con diferentes tecnologías con el fin de crear diferentes proyectos.</li>
   <li>🖱️ Me gusta trabajar con arquitectura limpia y que evite la mayor cantidad de errores posibles.</li>
   <li>🎉 Fun Fact: Todo el mundo es una IA hasta que complete un captcha 😉</li>
-</ul><img src="Banner_edit.png" style="width:45%;"/></span>
+</ul>

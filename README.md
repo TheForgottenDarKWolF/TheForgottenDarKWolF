@@ -1,4 +1,4 @@
-# <center>Bienvenido a mi Github 👋</center>
+<span style="display:flex;align-items:center;justify-content:center;">Bienvenido a mi Github 👋</span>
 ![Banner de Oscar Díaz](Banner_edit.png)
 <span style="text-align:center;font-size:24px;border-bottom:2px solid grey;border-left:2px solid grey;padding-left:5px;padding-right:5px;border-radius:2px;">Contacto</span>
 <span style="display:flex;align-items:center;justify-content:center;">

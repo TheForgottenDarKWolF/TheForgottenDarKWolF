@@ -37,6 +37,9 @@
 <span style="width:auto;margin:5px;">
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 </span>
+<span style="width:auto;margin:5px;">
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+</span>
 </span>
 <span style="display:flex;align-items:center;justify-content:center;">
 <span style="width:auto;margin:5px;">
